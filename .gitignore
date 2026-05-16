@@ -5,3 +5,4 @@ data/raw/images/*.jpg
 *.jpeg
 *.png
 *.gif
+.vscode
